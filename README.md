@@ -1,0 +1,2 @@
+# Raimundo_Rafael_Andrade_de_Oliveira
+👨‍💻 Iniciante na programação, sou bom em lógica e em resoluções de problemas 👨‍💻 linguagens em progresso: Python, PHP, Javascript e front-end(HTML e CSS) 💼 Experiência: Nenhuma 🎓Cursos feitos✅ e em progresso💬: • Coursera, Python 1 oferecido pela USP.✅  • Coursera, HTML, CSS and Javascript for web developers, em inglês, oferecido pela Universidade Johns Hopkins💬
